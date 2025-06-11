@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agents, hammers and the separation of concerns"
+title:  "Agents and hammers"
 date:   2025-06-10 14:00:08 +0100
 categories: agents
 ---

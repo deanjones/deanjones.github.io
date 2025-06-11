@@ -21,7 +21,6 @@
 title: Performative utterances
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Performative utterances.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://deanjones.github.io" 
 github_username:  deanjones
